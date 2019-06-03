@@ -1,0 +1,25 @@
+body{
+    scroll-behavior: smooth;
+}
+
+#footerid{
+    background:#566573;
+    color:white;
+    margin-top:1%;
+}
+.footerfooter{
+    background:black;
+    padding:1%;
+
+}
+.itemDescription{
+    display:none;
+}
+
+.caption img:hover{
+    transform: scale(1.2);
+}
+#formContent{
+    margin:auto;
+    display: none;
+}
